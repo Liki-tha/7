@@ -1,0 +1,18 @@
+.heading{
+    width: 80%;
+    font-size: 22px;
+}
+.name_of_object{
+    color: cadetblue;
+
+}
+
+#camera{
+    border: 2px ridge;
+    border-color: crimson;
+    height: 300px;
+}
+
+#result_object_name, #result_object_Accuracy_name{
+    color: violet;
+}
